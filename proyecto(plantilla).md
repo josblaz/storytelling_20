@@ -2,29 +2,30 @@
 
 # Proyecto HRUN2020 (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: SanFranTeam
 
 Proyecto (código): 
 
 
 ## Resumen
-
+La doble vida de Carlos San Francisco, funcionario y verbenero.
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://github.com/josblaz/storytelling_20/blob/master/foto%20leo.jpg)
 
-Nombre: 
+Nombre: Carlos San Francisco
 
 
 ### Historia
 
 
 ### Contexto
-
+Década de los 80, Rural, Movida Andaluza.
 
 ### Conflicto 
-
+La cabeza y el corazón, pasión y razón, el fuego y el hielo, un funeral y un parto, el vidrio y el papel. 
+Elegir entre lo que te hace feliz y lo que la gente quiere que hagas.
 
 - ChatBot: (enlace) 
 
@@ -33,7 +34,7 @@ Nombre:
 - Storytelling: (enlace) 
 
 ------
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
+(https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
 
 Autores:  
@@ -42,9 +43,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Norcoreano
+![](https://github.com/josblaz/storytelling_20/blob/master/foto%20leo.jpg)
+- :man: Arcipreste de Hita
+- :man: Perro Cristiano 
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
