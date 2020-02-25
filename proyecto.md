@@ -43,10 +43,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: Norcoreano
-![](https://github.com/josblaz/storytelling_20/blob/master/foto%20leo.jpg)
 - :man: Arcipreste de Hita
-- :man: Perro Cristiano 
+- :man: Norcoreano
+- :dog: Perro Cristiano 
+
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
