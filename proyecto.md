@@ -27,7 +27,7 @@ Década de los 80, Rural, Movida Andaluza.
 La cabeza y el corazón, pasión y razón, el fuego y el hielo, un funeral y un parto, el vidrio y el papel. 
 Elegir entre lo que te hace feliz y lo que la gente quiere que hagas.
 
-- ChatBot: (enlace) 
+- ChatBot: https://telegram.me/csanfran_bot 
 
 - Banner:  (enlace) 
 
