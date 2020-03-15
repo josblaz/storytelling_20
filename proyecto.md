@@ -20,7 +20,7 @@ Nombre: Carlos San Francisco
 
 
 ### Historia
-
+Carlos San Francisco nació para los focos; ya sean los de un escenario en Toledo o los de un flexo en una biblioteca.
 
 ### Contexto
 Década de los 80, Rural, Movida Andaluza.
