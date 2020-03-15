@@ -6,6 +6,8 @@ Nombre del Equipo: SanFranTeam
 
 Proyecto (código): 
 
+Bot: http://t.me/csanfran_bot
+
 
 ## Resumen
 La doble vida de Carlos San Francisco, funcionario y verbenero.
